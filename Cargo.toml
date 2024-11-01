@@ -1,5 +1,5 @@
 [package]
-name = "weather-cli"
+name = "rusty-weather"
 version = "0.1.0"
 edition = "2021"
 

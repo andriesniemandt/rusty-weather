@@ -1,6 +1,6 @@
-# Weather CLI - Rust
+# Rusty Weather
 
-A basic Rust CLI that integrates with the OpenWeatherAPI
+A basic Rust CLI that integrates with the OpenWeatherAPI.
 
 ## Getting started
 

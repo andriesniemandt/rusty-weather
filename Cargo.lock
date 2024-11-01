@@ -720,6 +720,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "rusty-weather"
+version = "0.1.0"
+dependencies = [
+ "colored",
+ "dotenv",
+ "reqwest",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "ryu"
 version = "1.0.18"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1118,17 +1129,6 @@ name = "wasm-bindgen-shared"
 version = "0.2.95"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "65fc09f10666a9f147042251e0dda9c18f166ff7de300607007e96bdebc1068d"
-
-[[package]]
-name = "weather-cli"
-version = "0.1.0"
-dependencies = [
- "colored",
- "dotenv",
- "reqwest",
- "serde",
- "serde_json",
-]
 
 [[package]]
 name = "web-sys"
